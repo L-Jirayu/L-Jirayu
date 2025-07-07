@@ -6,7 +6,7 @@ Developer
 
 Learn everything about develop to that interests for me. For example Web Development, Learning about concept of Programming Language to that interest.
 
-* 🌍  I'm based in Samut Sakhon province, Thailand
+* 🌍  I'm based in Samut Sakhon, Thailand
 * ✉️  You can contact me at [jilangza@gmail.com](mailto:jilangza@gmail.com)
 
 ### Skills
