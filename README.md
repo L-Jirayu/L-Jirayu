@@ -9,9 +9,10 @@ Learn everything about develop to that interests for me. For example Web Develop
 * 🌍  I'm based in Samut Sakhon, Thailand
 * ✉️  You can contact me at [jilangza@gmail.com](mailto:jilangza@gmail.com)
 * 🖥️  See my portfolio at [My Profile](https://landingprofile-ebon.vercel.app/) deploy with Vercel
-  
-### Skills (Sort from by learning)
 
+</br>
+
+### Skills (Sort from by learning)
 
 <p align="left">
 From inside University</br>
@@ -32,6 +33,7 @@ From inside University</br>
 
 From outside University</br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a>
@@ -39,5 +41,54 @@ From outside University</br>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a>
-
 </p>
+
+
+### Programming Language Repository
+
+| Language | Name | Repo Link | Description |
+|-----------------|---------|-----------|-------------|
+| C               | BMI Calculator | [Link](https://github.com/L-Jirayu/bmi-calculator) | Use C Language, run with CLI and output to .txt  |
+| Python          | Cactus Calculator | [Link](https://github.com/L-Jirayu/cactus-calculator) | Price calculator and show result with .csv (use pandas) |
+| Dart (Flutter)  | Speed Calculator App | [Link](https://github.com/L-Jirayu/speed-calculator-app) | This app use Flutter with Dart Language |
+| Golang          | Compound Interest | [Link](https://github.com/L-Jirayu/compound-interest) | Study about Go (Golang) concept with CLI and output to .txt |
+| Java            | Mole and Solution Concentration | [Link](https://github.com/L-Jirayu/chemistry-calculator) | Study about OOP Concept and run in CLI |
+| C# (Winfrom)          | Program Aggregator | [Link](https://github.com/L-Jirayu/program-aggregator) | Study C# Concept from WinFrom and Calculator for 2 value |
+| C# (ASP .Net MVC)     | Tool University Lend-Return Web Application | [Link](https://github.com/L-Jirayu/tool-university) | Booking airplane ticket for make ticket, using ASP .Net (MVC) |
+| C# (ASP .Net MVC)     | Airplane Ticket Booking Web Application | [Link](https://github.com/L-Jirayu/airplane-ticket) | Borrowing and returning equipment within the university, using ASP .Net (MVC) |
+| Javascript          | Electrical Cost Calculate | [Link](https://github.com/L-Jirayu/electrical-calculation) | Study about JavaScript concept with CLI and output to .txt |
+
+</br>
+
+### Stack
+<p align="left">
+Nest-MERN Stack</br>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite"/></a>
+<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" title="NestJS"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a></br>
+
+
+JAM Stack</br>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a>
+</p>
+
+### Stack Repository (Or see in "Pinned")
+
+| Stack | Name | Repo Link | Description |
+|-----------------|---------|-----------|-------------|
+| Nest-MERN Stack  | Authentication (Frontend) | [Link](https://github.com/L-Jirayu/authen-front) | Authentication for Frontend using React |
+| Nest-MERN Stack  | Authentication (Backend) | [Link](https://github.com/L-Jirayu/authen-back) | Authentication for Backend using NestJS (Based Express.js) |
+| Nest-MERN Stack  | Todolist (Frontend) | [Link](https://github.com/L-Jirayu/todolist-front) | TodoList for Frontend using React+Vite |
+| Nest-MERN Stack  | Todolist (Backend) | [Link](https://github.com/L-Jirayu/todolist-back) | TodoList for Backend using NestJS (Based Express.js)9 |
+| JAM Stack        | Tally Counter Web | [Link](https://github.com/L-Jirayu/tally-counter) | For study about JAM Stack using VanillaJS + FastAPI for collection counting |
+| JAM Stack        | Stopwatch Web | [Link](https://github.com/L-Jirayu/stopwatch) | Adapted from VanillaJS to JAM-Stack with Third Party API |
+
+</br>
+
