@@ -79,16 +79,5 @@ JAM Stack</br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a>
 </p>
 
-### Stack Repository (Or see in "Pinned")
-
-| Stack | Name | Repo Link | Description |
-|-----------------|---------|-----------|-------------|
-| Nest-MERN Stack  | Authentication (Frontend) | [Link](https://github.com/L-Jirayu/authen-front) | Authentication for Frontend using React |
-| Nest-MERN Stack  | Authentication (Backend) | [Link](https://github.com/L-Jirayu/authen-back) | Authentication for Backend using NestJS (Based Express.js) |
-| Nest-MERN Stack  | Todolist (Frontend) | [Link](https://github.com/L-Jirayu/todolist-front) | TodoList for Frontend using React+Vite |
-| Nest-MERN Stack  | Todolist (Backend) | [Link](https://github.com/L-Jirayu/todolist-back) | TodoList for Backend using NestJS (Based Express.js)9 |
-| JAM Stack        | Tally Counter Web | [Link](https://github.com/L-Jirayu/tally-counter) | For study about JAM Stack using VanillaJS + FastAPI for collection counting |
-| JAM Stack        | Stopwatch Web | [Link](https://github.com/L-Jirayu/stopwatch) | Adapted from VanillaJS to JAM-Stack with Third Party API |
-
-</br>
+### Stack Repository (see in "Pinned")
 
