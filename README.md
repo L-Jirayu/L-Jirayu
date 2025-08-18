@@ -68,9 +68,21 @@ Nest-MERN Stack</br>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite"/></a>
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" title="NestJS"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a></br>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a></p>
 
 
+### Nest-MERN Stack Repository
+
+| Name | Type | Repo Link | Description |
+|-----------------|---------|-----------|-------------|
+| Authentication  | Frontend | [Link](https://github.com/L-Jirayu/authen-front) | Authentication for Frontend using React  |
+|                 | Backend | [Link](https://github.com/L-Jirayu/authen-back) | Authentication for Backend using NestJS (Based Express.js) |
+| Todolist        | Frontend | [Link](https://github.com/L-Jirayu/todolist-front) | TodoList for Frontend using React |
+|                 | Backend | [Link](https://github.com/L-Jirayu/todolist-back) | TodoList for Backend using NestJS (Based Express.js) |
+
+</br>
+
+<p>
 JAM Stack</br>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a>
@@ -79,3 +91,9 @@ JAM Stack</br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a>
 </p>
 
+### JAN Stack Repository
+
+| Name | Repo Link | Description |
+|-----------------|----------------|-------------|
+| Tally Counter  | [Link](https://github.com/L-Jirayu/tally-counter) | Tally Counter Website using JAM Stack (VanillaJS + FastAPI)  |
+| Stopwatch      | [Link](https://github.com/L-Jirayu/stopwatch) | Stopwatch Website using JAM Stack (VanillaJS + Third Party API) |
