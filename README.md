@@ -75,8 +75,8 @@ Nest-MERN Stack</br>
 
 | Name | Type | Repo Link | Description |
 |-----------------|---------|-----------|-------------|
-| Authentication  | Frontend | [Link](https://github.com/L-Jirayu/authen-front) | Authentication for Frontend using React  |
-|                 | Backend | [Link](https://github.com/L-Jirayu/authen-back) | Authentication for Backend using NestJS (Based Express.js) |
+| Minifeed        | Frontend | [Link](https://github.com/L-Jirayu/minifeed-front) | Authentication, CRUD and Upload file for Frontend using React  |
+|                 | Backend | [Link](https://github.com/L-Jirayu/minifeed-back) | Authentication, CRUD and Upload file for Backend using NestJS (Based Express.js) |
 | Todolist        | Frontend | [Link](https://github.com/L-Jirayu/todolist-front) | TodoList for Frontend using React |
 |                 | Backend | [Link](https://github.com/L-Jirayu/todolist-back) | TodoList for Backend using NestJS (Based Express.js) |
 
