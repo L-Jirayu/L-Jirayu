@@ -60,7 +60,7 @@ From outside University</br>
 
 </br>
 
-### Stack (Repository see in "Pinned")
+### Stack (Repository see in "Pinned" or see in below)
 <p align="left">
 Nest-MERN Stack</br>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a>
@@ -82,6 +82,27 @@ Nest-MERN Stack</br>
 
 </br>
 
+
+### Microservice
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a>
+<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" title="NestJS"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a>
+</p>
+
+### Microservice Repository
+
+| Name | Tools | Type | Description | Link | Refference |
+|-----------------|---------|---------|-----------|-------------|-------------|
+| 3d-bin-packing   | Python | Server-side | using Python (py3dbp) Simulation) and send result scale to Client-side | [Link](https://github.com/L-Jirayu/3d-bin-packing) | [Link](https://github.com/jerry800416/3D-bin-packing)
+| scale box-size  | NestJS | Client-side | using NestJS for show only box pack scale  | [Link](https://github.com/L-Jirayu/packbox-size) |
+
+
+</br>
+
+
+
 <p>
 JAM Stack</br>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a>
@@ -93,7 +114,8 @@ JAM Stack</br>
 
 ### JAM Stack Repository
 
-| Name | Repo Link | Description |
-|-----------------|----------------|-------------|
-| Tally Counter  | [Link](https://github.com/L-Jirayu/tally-counter) | Tally Counter Website using JAM Stack (VanillaJS + FastAPI)  |
-| Stopwatch      | [Link](https://github.com/L-Jirayu/stopwatch) | Stopwatch Website using JAM Stack (VanillaJS + Third Party API) |
+| Name | Repo Link | Description | Deploy Web |
+|-----------------|----------------|-------------|-------------|
+| Tally Counter  | [Link](https://github.com/L-Jirayu/tally-counter) | Tally Counter Website using JAM Stack (VanillaJS + FastAPI)  | [Link](https://tally-counter-gold.vercel.app/)
+| Stopwatch      | [Link](https://github.com/L-Jirayu/stopwatch) | Stopwatch Website using JAM Stack (VanillaJS + Third Party API) | [Link](https://stopwatch-sigma-olive.vercel.app/)
+
