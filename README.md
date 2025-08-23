@@ -114,7 +114,7 @@ From outside University</br>
 | Name | Tools | Type | Description | Link | Refference |
 |-----------------|---------|---------|-----------|-------------|-------------|
 | 3d-bin-packing   | Python | Server-side | using Python (py3dbp) Simulation) and send result scale to Client-side | [Link](https://github.com/L-Jirayu/3d-bin-packing) | [Link](https://github.com/jerry800416/3D-bin-packing)
-| scale box-size  | NestJS | Client-side | using NestJS for show only box pack scale  | [Link](https://github.com/L-Jirayu/packbox-size) |
+| packbox-size  | NestJS | Client-side | using NestJS for show only box pack scale  | [Link](https://github.com/L-Jirayu/packbox-size) |
 
 
 </br>
