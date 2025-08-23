@@ -62,7 +62,8 @@ From outside University</br>
 
 ### Stack (Repository see in "Pinned" or see in below)
 <p align="left">
-Nest-MERN Stack</br>
+  
+### Nest-MERN Stack </br>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite"/></a>
@@ -80,8 +81,25 @@ Nest-MERN Stack</br>
 | Todolist        | Frontend | [Link](https://github.com/L-Jirayu/todolist-front) | TodoList for Frontend using React |
 |                 | Backend | [Link](https://github.com/L-Jirayu/todolist-back) | TodoList for Backend using NestJS (Based Express.js) |
 
-</br>
 
+<p>
+
+### JAM Stack </br>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a>
+</p>
+
+### JAM Stack Repository
+
+| Name | Repo Link | Description | Deploy Web |
+|-----------------|----------------|-------------|-------------|
+| Tally Counter  | [Link](https://github.com/L-Jirayu/tally-counter) | Tally Counter Website using JAM Stack (VanillaJS + FastAPI)  | [Link](https://tally-counter-gold.vercel.app/)
+| Stopwatch      | [Link](https://github.com/L-Jirayu/stopwatch) | Stopwatch Website using JAM Stack (VanillaJS + Third Party API) | [Link](https://stopwatch-sigma-olive.vercel.app/)
+
+</br>
 
 ### Microservice
 <p align="left">
@@ -100,22 +118,3 @@ Nest-MERN Stack</br>
 
 
 </br>
-
-
-
-<p>
-JAM Stack</br>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36"/></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a>
-</p>
-
-### JAM Stack Repository
-
-| Name | Repo Link | Description | Deploy Web |
-|-----------------|----------------|-------------|-------------|
-| Tally Counter  | [Link](https://github.com/L-Jirayu/tally-counter) | Tally Counter Website using JAM Stack (VanillaJS + FastAPI)  | [Link](https://tally-counter-gold.vercel.app/)
-| Stopwatch      | [Link](https://github.com/L-Jirayu/stopwatch) | Stopwatch Website using JAM Stack (VanillaJS + Third Party API) | [Link](https://stopwatch-sigma-olive.vercel.app/)
-
