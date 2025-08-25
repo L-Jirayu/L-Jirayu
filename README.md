@@ -61,18 +61,10 @@ From outside University</br>
 </br>
 
 ### Stack (Repository see in "Pinned" or see in below)
+
 <p align="left">
-  
-### Nest-MERN Stack </br>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite"/></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" title="NestJS"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a></p>
 
-
-### Nest-MERN Stack Repository
+#### • Nest-MERN Stack Repository
 
 | Name | Type | Repo Link | Description |
 |-----------------|---------|-----------|-------------|
@@ -82,33 +74,21 @@ From outside University</br>
 |                 | Backend | [Link](https://github.com/L-Jirayu/todolist-back) | TodoList for Backend using NestJS (Based Express.js) |
 
 
-<p>
 
-### JAM Stack </br>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36"/></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a>
-</p>
-
-### JAM Stack Repository
+#### • JAM Stack Repository
 
 |   Name   | Repo Link | Description | Deploy Web (VanillaJS) |
 |-----------------|----------------|-------------|-------------|
 |   Tally Counter  | [Link](https://github.com/L-Jirayu/tally-counter) | Tally Counter Website using JAM Stack (VanillaJS + FastAPI)  | [Link](https://tally-counter-gold.vercel.app/)
 |   Stopwatch      | [Link](https://github.com/L-Jirayu/stopwatch) | Stopwatch Website using JAM Stack (VanillaJS + Third Party API) | [Link](https://stopwatch-sigma-olive.vercel.app/)
 
-</br>
-
-### Microservice
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" title="NestJS"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a>
 </p>
 
+
+</br>
+
+<p align="left">
+  
 ### Microservice Repository
 
 | Name | Tools | Type | Description | Link | Refference |
@@ -116,5 +96,4 @@ From outside University</br>
 | 3d-bin-packing   | Python | Server-side | using Python (py3dbp) Simulation) and send result scale to Client-side | [Link](https://github.com/L-Jirayu/3d-bin-packing) | [Link](https://github.com/jerry800416/3D-bin-packing)
 | packbox-size  | NestJS | Client-side | using NestJS for show only box pack scale  | [Link](https://github.com/L-Jirayu/packbox-size) |
 
-
-</br>
+</p>
