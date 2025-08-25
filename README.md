@@ -1,3 +1,4 @@
+
 Hi 👋 My name is Jirayu Langphee
 ================================
 
@@ -9,10 +10,11 @@ Learn everything about develop to that interests for me. For example Web Develop
 * 🌍  I'm based in Samut Sakhon, Thailand
 * ✉️  You can contact me at [jilangza@gmail.com](mailto:jilangza@gmail.com)
 * 🖥️  See my portfolio at [My Profile](https://landingprofile-ebon.vercel.app/) deploy with Vercel
-
 </br>
 
-### Skills (Sort from by learning)
+---
+
+### 🛠️ Skills (Sort from by learning)
 
 <p align="left">
 From inside University</br>
@@ -43,8 +45,10 @@ From outside University</br>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a>
 </p>
 
+---
 
-### Programming Language Repository
+
+### 📚 Programming Language Repository
 
 | Language | Name | Repo Link | Description |
 |-----------------|---------|-----------|-------------|
@@ -60,7 +64,9 @@ From outside University</br>
 
 </br>
 
-### Stack (Repository see in "Pinned" or see in below)
+---
+
+### ⚡ Stack (Repository see in "Pinned" or see in below)
 
 <p align="left">
 
@@ -82,14 +88,14 @@ From outside University</br>
 |   Tally Counter  | [Link](https://github.com/L-Jirayu/tally-counter) | Tally Counter Website using JAM Stack (VanillaJS + FastAPI)  | [Link](https://tally-counter-gold.vercel.app/)
 |   Stopwatch      | [Link](https://github.com/L-Jirayu/stopwatch) | Stopwatch Website using JAM Stack (VanillaJS + Third Party API) | [Link](https://stopwatch-sigma-olive.vercel.app/)
 
-</p>
+</p></br>
 
 
-</br>
+---
 
 <p align="left">
   
-### Microservice Repository
+### 📦 Microservice Repository
 
 | Name | Tools | Type | Description | Link | Refference |
 |-----------------|---------|---------|-----------|-------------|-------------|
