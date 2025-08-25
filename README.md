@@ -46,7 +46,7 @@ From outside University</br>
 
 </br>
 
-### 📚 Programming Language Repository
+### 📚 Academic Programming Language Repository
 
 | Language | Name | Repo Link | Description |
 |-----------------|---------|-----------|-------------|
