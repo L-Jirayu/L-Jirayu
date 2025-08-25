@@ -70,7 +70,7 @@ From outside University</br>
 
 ### • Nest-MERN Stack Repository
 
-|      Name      |      Type      | Repo Link | Description |
+|   Name   |   Type   | Repo Link | Description |
 |-----------------|---------|-----------|-------------|
 | Minifeed        | Frontend | [Link](https://github.com/L-Jirayu/minifeed-front) | MiniFeed for Frontend using React  |
 |                 | Backend | [Link](https://github.com/L-Jirayu/minifeed-back) | MiniFeed for Backend using NestJS (Based Express.js) |
