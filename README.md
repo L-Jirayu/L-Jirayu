@@ -64,7 +64,7 @@ From outside University</br>
 
 ---
 
-### ⚡ Stack (Repository see in "Pinned" or see in below)
+### ⚡ Stack (See in below or see in "Pinned")
 
 <p align="left">
 
