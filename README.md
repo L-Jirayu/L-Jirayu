@@ -64,7 +64,7 @@ From outside University</br>
 
 <p align="left">
 
-#### • Nest-MERN Stack Repository
+### • Nest-MERN Stack Repository
 
 | Name | Type | Repo Link | Description |
 |-----------------|---------|-----------|-------------|
@@ -75,7 +75,7 @@ From outside University</br>
 
 
 
-#### • JAM Stack Repository
+### • JAM Stack Repository
 
 |   Name   | Repo Link | Description | Deploy Web (VanillaJS) |
 |-----------------|----------------|-------------|-------------|
