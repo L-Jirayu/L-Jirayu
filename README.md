@@ -10,9 +10,8 @@ Learn everything about develop to that interests for me. For example Web Develop
 * 🌍  I'm based in Samut Sakhon, Thailand
 * ✉️  You can contact me at [jilangza@gmail.com](mailto:jilangza@gmail.com)
 * 🖥️  See my portfolio at [My Profile](https://landingprofile-ebon.vercel.app/) deploy with Vercel
-</br>
 
----
+</br>
 
 ### 🛠️ Skills (Sort from by learning)
 
@@ -45,8 +44,7 @@ From outside University</br>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a>
 </p>
 
----
-
+</br>
 
 ### 📚 Programming Language Repository
 
@@ -72,7 +70,7 @@ From outside University</br>
 
 ### • Nest-MERN Stack Repository
 
-| Name | Type | Repo Link | Description |
+|      Name      |      Type      | Repo Link | Description |
 |-----------------|---------|-----------|-------------|
 | Minifeed        | Frontend | [Link](https://github.com/L-Jirayu/minifeed-front) | MiniFeed for Frontend using React  |
 |                 | Backend | [Link](https://github.com/L-Jirayu/minifeed-back) | MiniFeed for Backend using NestJS (Based Express.js) |
