@@ -95,9 +95,9 @@ From outside University</br>
   
 ### 📦 Microservice Repository
 
-| Name | Tools | Type | Description | Link | Refference |
+| Name | Service | Tools | Type | Description | Link |
 |-----------------|---------|---------|-----------|-------------|-------------|
-| 3d-bin-packing   | Python | Server-side | using Python (py3dbp) Simulation) and send result scale to Client-side | [Link](https://github.com/L-Jirayu/3d-bin-packing) | [Link](https://github.com/jerry800416/3D-bin-packing)
-| packbox-size  | NestJS | Client-side | using NestJS for show only box pack scale  | [Link](https://github.com/L-Jirayu/packbox-size) |
+| Box Packing Scale | 3d-bin-packing   | Python | Server-side | using Python (py3dbp) Simulation) and send result scale to Client-side (ref: [Link](https://github.com/jerry800416/3D-bin-packing)) | [Link](https://github.com/L-Jirayu/3d-bin-packing)
+|      | packbox-size  | NestJS | Client-side | using NestJS for show only box pack scale  | [Link](https://github.com/L-Jirayu/packbox-size) |
 
 </p>
