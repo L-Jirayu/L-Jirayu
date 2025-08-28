@@ -10,6 +10,7 @@ Learn everything about develop to that interests for me. For example Web Develop
 * 🌍  I'm based in Samut Sakhon, Thailand
 * ✉️  You can contact me at [jilangza@gmail.com](mailto:jilangza@gmail.com)
 * 🖥️  See my portfolio at [My Profile](https://landingprofile-ebon.vercel.app/) deploy with Vercel
+* 👨‍💻 My **academic programming language** [Click Here](https://github.com/L-Jirayu/academic-programing-repo-link)
 
 </br>
 
@@ -43,22 +44,6 @@ From outside University</br>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a>
 </p>
-
-</br>
-
-### 📚 Academic Programming Language Repository
-
-| Language | Name | Repo Link | Description |
-|-----------------|---------|-----------|-------------|
-| C               | BMI Calculator | [Link](https://github.com/L-Jirayu/bmi-calculator) | Use C Language, run with CLI and output to .txt  |
-| Python          | Cactus Calculator | [Link](https://github.com/L-Jirayu/cactus-calculator) | Price calculator and show result with .csv (use pandas) |
-| Dart (Flutter)  | Speed Calculator App | [Link](https://github.com/L-Jirayu/speed-calculator-app) | This app use Flutter with Dart Language |
-| Golang          | Compound Interest | [Link](https://github.com/L-Jirayu/compound-interest) | Study about Go (Golang) concept with CLI and output to .txt |
-| Java            | Mole and Solution Concentration | [Link](https://github.com/L-Jirayu/chemistry-calculator) | Study about OOP Concept and run in CLI |
-| C# (Winfrom)          | Program Aggregator | [Link](https://github.com/L-Jirayu/program-aggregator) | Study C# Concept from WinFrom and Calculator for 2 value |
-| C# (ASP .Net MVC)     | Tool University Lend-Return Web Application | [Link](https://github.com/L-Jirayu/tool-university) | Booking airplane ticket for make ticket, using ASP .Net (MVC) |
-| C# (ASP .Net MVC)     | Airplane Ticket Booking Web Application | [Link](https://github.com/L-Jirayu/airplane-ticket) | Borrowing and returning equipment within the university, using ASP .Net (MVC) |
-| Javascript          | Electrical Cost Calculate | [Link](https://github.com/L-Jirayu/electrical-calculation) | Study about JavaScript concept with CLI and output to .txt |
 
 </br>
 
