@@ -55,12 +55,12 @@ From outside University</br>
 
 ### • Nest-MERN Stack Repository
 
-|   Name   |   Type   | Repo Link | Description |
-|-----------------|---------|-----------|-------------|
-| Minifeed        | Frontend | [Link](https://github.com/L-Jirayu/minifeed-front) | MiniFeed for Frontend using React  |
-|                 | Backend | [Link](https://github.com/L-Jirayu/minifeed-back) | MiniFeed for Backend using NestJS (Based Express.js) |
-| Todolist        | Frontend | [Link](https://github.com/L-Jirayu/todolist-front) | TodoList for Frontend using React |
-|                 | Backend | [Link](https://github.com/L-Jirayu/todolist-back) | TodoList for Backend using NestJS (Based Express.js) |
+|   Name   |   Type   | Repo Link | Description | Feature |
+|-----------------|---------|-----------|-------------|-------------|
+| Minifeed        | Frontend | [Link](https://github.com/L-Jirayu/minifeed-front) | MiniFeed for Frontend using React  | Simple social feed system with CRUD, authentication, and real-time updates.  |
+|                 | Backend | [Link](https://github.com/L-Jirayu/minifeed-back) | MiniFeed for Backend using NestJS (Based Express.js) |   |
+| Todolist        | Frontend | [Link](https://github.com/L-Jirayu/todolist-front) | TodoList for Frontend using React | Task management app with search/filter and REST API.  |
+|                 | Backend | [Link](https://github.com/L-Jirayu/todolist-back) | TodoList for Backend using NestJS (Based Express.js) |   |
 
 
 
