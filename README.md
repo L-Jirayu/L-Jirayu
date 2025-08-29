@@ -64,8 +64,6 @@ From outside University</br>
 |                 | Backend | [Link](https://github.com/L-Jirayu/todolist-back) | TodoList for Backend using NestJS (Based Express.js) |   |
 
 
-https://github.com/L-Jirayu/message-send-system
-
 ### • JAM Stack Repository
 
 |   Name   | Repo Link | Description | Deploy Web (VanillaJS) |
