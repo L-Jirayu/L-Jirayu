@@ -71,7 +71,7 @@ Basic CRUD and connect to MongoDB with docker
 | Message Send System  | FullStack Team | [Link](https://github.com/L-Jirayu/message-send-system) | Message Send System with Nest-MERN stack and dashboard with Laravel and have AI Model for critical message check  | Have user, admin, backend have CRUD RabbitMQ Websocket and AI Model using Ollama AI   |
 | Minifeed        | Frontend | [Link](https://github.com/L-Jirayu/minifeed-front) | MiniFeed for Frontend using React  | Simple social feed system with CRUD, authentication, and real-time updates.  |
 |                 | Backend | [Link](https://github.com/L-Jirayu/minifeed-back) | MiniFeed for Backend using NestJS (Based Express.js) |   |
-| Todolist        | Frontend | [Link](https://github.com/L-Jirayu/todolist-front) | TodoList for Frontend using React | Task management app with search/filter and RestAPI.  |
+| Todolist        | Frontend | [Link](https://github.com/L-Jirayu/todolist-front) | TodoList for Frontend using React | Todolist app with CRUD and Search(query+filter+sort) and connect to backend with RestAPI.  |
 |                 | Backend | [Link](https://github.com/L-Jirayu/todolist-back) | TodoList for Backend using NestJS (Based Express.js) |   |
 
 
