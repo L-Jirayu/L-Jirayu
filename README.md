@@ -77,7 +77,7 @@ Basic CRUD and connect to MongoDB with docker
 
 ### • JAM Stack Repository
 
-|   Name   | Repo Link | Description | Deploy Web (VanillaJS) |
+|   Name   | Repo Link | Description | Deploy Link |
 |-----------------|----------------|-------------|-------------|
 |   Tally Counter  | [Link](https://github.com/L-Jirayu/tally-counter) | Tally Counter Website using JAM Stack (VanillaJS + FastAPI)  | [Link](https://tally-counter-gold.vercel.app/)
 |   Stopwatch      | [Link](https://github.com/L-Jirayu/stopwatch) | Stopwatch Website using JAM Stack (VanillaJS + Third Party API) | [Link](https://stopwatch-sigma-olive.vercel.app/)
