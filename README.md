@@ -70,10 +70,10 @@ Basic CRUD and connect to MongoDB with docker
 |   Name   |   Type   | Repo Link | Description & Feature | Deploy Link |
 |-----------------|---------|-----------|--------------|------------|
 | Message Send System  | FullStack Team | [Link](https://github.com/L-Jirayu/message-send-system) | Message Send System with Nest-MERN stack and dashboard with Laravel and have AI Model for critical message check, have user, admin, backend have CRUD RabbitMQ Websocket and AI Model using Ollama AI   |     -       |
-| Social Feed System    | Frontend | [Link](https://github.com/L-Jirayu/minifeed-front) | MiniFeed for Frontend using React Simple social feed system with CRUD, authentication and real-time updates. MiniFeed for Backend using NestJS (Based Express.js) |      [Link](https://minifeed.vercel.app/)       |
-|                 | Backend | [Link](https://github.com/L-Jirayu/minifeed-back) |  |              |
-| Task Management App   | Frontend | [Link](https://github.com/L-Jirayu/todolist-front) | TodoList for Frontend using React, todolist app with CRUD and Search (query+filter+sort) and connect to backend with RestAPI. TodoList for Backend using NestJS (Based Express.js)  |     -       |
-|                 | Backend | [Link](https://github.com/L-Jirayu/todolist-back) |  |            |
+| Social Feed System    | Frontend | [Link](https://github.com/L-Jirayu/social-feed-front) | Social Feed for Frontend using React Simple social feed system with CRUD, authentication and real-time updates. MiniFeed for Backend using NestJS (Based Express.js) |      [Link](https://minifeed.vercel.app/)       |
+|                 | Backend | [Link](https://github.com/L-Jirayu/social-feed-back) |  |              |
+| Task Management App   | Frontend | [Link](https://github.com/L-Jirayu/task-management-front) | Task Management for Frontend using React, todolist, with CRUD, search (query+filter+sort), subtask, assignee, subtask and authentication. And connect to backend with RestAPI. TodoList for Backend using NestJS (Based Express.js)  |     -       |
+|                 | Backend | [Link](https://github.com/L-Jirayu/task-management-back) |  |            |
 
 
 
