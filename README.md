@@ -70,7 +70,7 @@ Basic CRUD and connect to MongoDB with docker
 |   Name   |   Type   | Repo Link | Description & Feature | Deploy Link |
 |-----------------|---------|-----------|--------------|------------|
 | Message Send System  | FullStack Team | [Link](https://github.com/L-Jirayu/message-send-system) | Message Send System with Nest-MERN stack and dashboard with Laravel and have AI Model for critical message check, have user, admin, backend have CRUD RabbitMQ Websocket and AI Model using Ollama AI   |     -       |
-| Social Feed System    | Frontend | [Link](https://github.com/L-Jirayu/social-feed-front) | Social Feed for Frontend using React. Social feed system make with CRUD, authentication and picture upload system. Social Feed for Backend using NestJS (Based Express.js) |      [Link](https://minifeed.vercel.app/)       |
+| Social Feed System    | Frontend | [Link](https://github.com/L-Jirayu/social-feed-front) | Social Feed System with Minifeed Concept. Social Feed for Frontend using React. Social Feed System make with CRUD, authentication and picture upload system. Social Feed for Backend using NestJS (Based Express.js) |  [Link](https://minifeed.vercel.app/)       |
 |                 | Backend | [Link](https://github.com/L-Jirayu/social-feed-back) |  |              |
 | Task Management App   | Frontend | [Link](https://github.com/L-Jirayu/task-management-front) | Task Management for Frontend using React, make with CRUD, search (query+filter+sort), subtask, assignee, subtask and authentication. And connect to backend with RestAPI. Task Management for Backend using NestJS (Based Express.js)  |     -       |
 |                 | Backend | [Link](https://github.com/L-Jirayu/task-management-back) |  |            |
