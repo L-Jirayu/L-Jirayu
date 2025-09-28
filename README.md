@@ -10,7 +10,7 @@ Learn everything about develop to that interests for me. For example Web Develop
 * 🌍  I'm based in Samut Sakhon, Thailand
 * ✉️  You can contact me at [jilangza@gmail.com](mailto:jilangza@gmail.com)
 * 🖥️  See my portfolio at [My Profile](https://landingprofile-ebon.vercel.app/) deploy with Vercel
-* 👨‍💻 My **academic programming language** [Click Here](https://github.com/L-Jirayu/academic-programing-repo-link)
+* 👨‍💻 **My learning** [Click Here !!](https://github.com/L-Jirayu/academic-programing-repo-link)
 
 </br>
 
@@ -46,17 +46,6 @@ Learn everything about develop to that interests for me. For example Web Develop
 <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a>
 </p>
-
-</br>
-
-### Backend Study 
-Basic CRUD and connect to MongoDB with docker
-
-|   Tools   | Repo Link | 
-|-----------------|----------------|
-|   Express  | [Link](https://github.com/L-Jirayu/product-express) | 
-|   NestJS   | [Link](https://github.com/L-Jirayu/stopwatch)   | 
-
 
 </br>
 
