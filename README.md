@@ -66,6 +66,14 @@ Learn everything about develop to that interests for me. For example Web Develop
 |                 | Backend | [Link](https://github.com/L-Jirayu/task-management-back) |  |            |
 
 
+### • PHP Stack Repository
+
+|   Name   | Tools | Repo Link | Description |
+|-----------------|----------------|-------------|-------------|
+|   People Management System  |  XAMPP | [Link](https://github.com/L-Jirayu/people-management-xampp) | Manage people with CRUD + Auth for using within and make with PHP Language
+|                             | Laravel| [Link](https://github.com/L-Jirayu/people-management-laravel) | Migration from [XAMPP Version](https://github.com/L-Jirayu/people-management-xampp) and additon log output and PDF export
+
+
 
 ### • JAM Stack Repository
 
