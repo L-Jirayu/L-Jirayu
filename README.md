@@ -9,7 +9,7 @@ Learn everything about develop to that interests for me. For example Web Develop
 
 * 🌍  I'm based in Samut Sakhon, Thailand
 * ✉️  You can contact me at [jilangza@gmail.com](mailto:jilangza@gmail.com)
-* 🖥️  See my portfolio at [My Profile](https://landingprofile-ebon.vercel.app/) deploy with Vercel
+* 🖥️  See my portfolio at [https://landingprofile-ebon.vercel.app/]
 * 👨‍💻 **My learning** [Click Here !!](https://github.com/L-Jirayu/academic-programing-repo-link)
 
 </br>
