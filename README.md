@@ -95,11 +95,11 @@ Learn everything about develop to that interests for me. For example Web Develop
   
 ### 📦 Microservice Repository 
 
-| Name | Service | Tools | Type | Description | Link |
-|-----------------|---------|---------|-----------|-------------|-------------|
-| Box Packaging Scale | 3d-bin-packing   | Python | Server-side | using Python (py3dbp) Simulation) and send result scale to Client-side (ref: [Link](https://github.com/jerry800416/3D-bin-packing)) | [Link](https://github.com/L-Jirayu/3d-bin-packing)
-| (Connect with RestAPI)     | packbox-size  | NestJS | Client-side | using NestJS for show only box pack scale  | [Link](https://github.com/L-Jirayu/packbox-size) |
-| Order System | order-system-java   | Java | Server-side | using Java for make backend with mock result data | [Link](https://github.com/L-Jirayu/order-system-java)
-| (Connect with gRPC)     | order-system-go  | Golang | Client-side | using Golang for response to Server-side   | [Link](https://github.com/L-Jirayu/order-system-go) |
+| Name | Service | Tools | Connecting with | Type | Description | Link |
+|-----------------|---------|---------|---------|-----------|-------------|-------------|
+| Box Packaging Scale | 3d-bin-packing   | Python | RestAPI | Server-side | using Python (py3dbp) Simulation) and send result scale to Client-side (ref: [Link](https://github.com/jerry800416/3D-bin-packing)) | [Link](https://github.com/L-Jirayu/3d-bin-packing)
+|    | packbox-size  | NestJS |  |Client-side | using NestJS for show only box pack scale  | [Link](https://github.com/L-Jirayu/packbox-size) |
+| Order System | order-system-java   | Java | gRPC | Server-side | using Java for make backend with mock result data | [Link](https://github.com/L-Jirayu/order-system-java)
+|    | order-system-go  | Golang |  | Client-side | using Golang for response to Server-side   | [Link](https://github.com/L-Jirayu/order-system-go) |
 
 </p>
